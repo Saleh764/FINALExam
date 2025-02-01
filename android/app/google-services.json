@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "745046169376",
+    "firebase_url": "https://finalexam-salehbanaklech-default-rtdb.firebaseio.com",
+    "project_id": "finalexam-salehbanaklech",
+    "storage_bucket": "finalexam-salehbanaklech.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745046169376:android:77ea4ff153818b41b46945",
+        "android_client_info": {
+          "package_name": "com.saleh.final"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuHoD9os1AdEKZtETXKUgKmfnXnKCUbIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
